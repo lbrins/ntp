@@ -1,0 +1,15 @@
+{
+  "name": "lbrins-ntp",
+  "version": "0.1.0",
+  "author": "lbrins <sboui.emir@gmail.com>",
+  "summary": "This module installs, starts and enables NTP service",
+  "license": "Apache-2.0",
+  "source": "https://github.com/lbrins/ntp",
+  "project_page": "https://github.com/lbrins/ntp",
+  "issues_url": "https://github.com/lbrins/ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
